@@ -1384,5 +1384,4 @@ mods:
         description: Włączanie lub wyłączanie modów jest obecnie możliwe tylko przez
             kopiowanie pliku modów do folderu "mods/". Jednak w przyszłej
             aktualizacji będziesz/asz mógł zmieniać ich status tutaj!
-    browserNoSupport: Due to browser restrictions it is currently only possible to
-        install mods in the Steam version - Sorry!
+    browserNoSupport: Z powodu ograniczeń przeglądarki, aktualnie możliwe jest instalowanie modyfikacji jedynie w wersji Steam - Przepraszamy!
